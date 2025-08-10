@@ -4,6 +4,7 @@ Reflected-xss testing tool for begginers
 
  - Golang compiller
  - Computer
+ - Tview (https://github.com/rivo/tview)
  ## Run
  Ofc basicaly u need to compile it
  
